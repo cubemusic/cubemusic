@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Shabnam-Bold';
+   font-display: swap;
+   src: url('Shabnam-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Shabnam';
+   font-display: swap;
+   src: url('Shabnam/font.ttf');
+}
